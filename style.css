@@ -14,10 +14,10 @@ h1 {
 }
 
 .red {
-    background: linear-gradient(180deg, rgb(18, 87, 10) 0%, rgb(0, 255, 0) 50%, rgb(10, 48, 5) 100%);
+    background: linear-gradient(180deg, rgb(92, 6, 6), rgb(255, 0, 0), rgb(66, 4, 4));
 }
 .green {
-    background-color: #007f00;
+    background: linear-gradient(180deg, #066604, #04fa00, #054a04);
 }
 .blue {
     background-color: hsl(240, 100%, 50%);
