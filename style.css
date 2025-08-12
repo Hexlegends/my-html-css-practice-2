@@ -20,5 +20,5 @@ h1 {
     background: linear-gradient(180deg, #066604, #04fa00, #054a04);
 }
 .blue {
-    background-color: hsl(240, 100%, 50%);
+    background: linear-gradient(hsl(212, 92%, 24%), hsl(212, 100%, 50%), hsl(212, 92%, 19%));
 }
