@@ -13,6 +13,11 @@ h1 {
     margin: 15px auto;
 }
 
+.cap {
+    width: 60px;
+    height: 25px;
+}
+
 .red {
     background: linear-gradient(180deg, rgb(92, 6, 6), rgb(255, 0, 0), rgb(66, 4, 4));
 }
