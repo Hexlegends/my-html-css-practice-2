@@ -26,8 +26,7 @@ h1 {
     height: 25px;
 }
 
-.cap, 
-.sleeve {
+.cap, .sleeve {
     display: inline-block;
 }
 
